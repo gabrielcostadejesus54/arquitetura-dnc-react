@@ -1,0 +1,19 @@
+header{
+    padding: 2rem 2%;
+    background-color: #FFFFFF;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 2.5rem;
+}
+
+ul li{
+    list-style-type: none;
+}
