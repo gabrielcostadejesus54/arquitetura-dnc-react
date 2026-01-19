@@ -1,19 +1,20 @@
 header{
     padding: 2rem 2%;
     background-color: #FFFFFF;
+    font-size: 20px;
 }
 
-.container{
+header .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-ul{
+header ul{
     display: flex;
     gap: 2.5rem;
 }
 
-ul li{
+header ul li{
     list-style-type: none;
 }

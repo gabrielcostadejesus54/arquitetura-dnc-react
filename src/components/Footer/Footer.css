@@ -1,0 +1,75 @@
+footer{
+    padding: 0 2%;
+    margin-top: 209px;
+}
+
+
+footer p, footer ul li{
+    font-size: 22px;
+    color: #4D5053;
+}
+
+footer .logo-dnc{
+    margin-bottom: 18px;
+}
+
+footer h2{
+    font-size: 25px;
+    margin-bottom: 26px;
+}
+
+footer .flex{
+    display: flex;
+    justify-content: space-between;
+    gap: 101px;
+}
+
+footer .space{
+    padding: 0px 120px 370px 0px;
+}
+
+footer .logo-col p{
+    margin-bottom: 30px;
+}
+
+footer .logo-col .socials{
+    display: flex;
+    gap: 54px;
+}
+
+footer .pages-col{
+    max-width: 120px;
+    width: 100%;
+}
+
+footer .pages-col ul{
+    gap: 26px;
+}
+
+footer .pages-col ul{
+    display: flex;
+    flex-direction: column;
+}
+
+footer .courses-col{
+    max-width: 258px;
+    width: 100%;
+}
+
+footer .contact-col ul{
+    display: flex;
+    flex-direction: column;
+}
+
+footer .footer-bottom{
+    border-top: 1px solid #E3E5E8;
+    padding: 24px 0px;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer .footer-bottom .lang img{
+    cursor: pointer;
+    margin-left: 23px;
+}
